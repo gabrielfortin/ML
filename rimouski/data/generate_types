@@ -1,0 +1,2 @@
+quicktype data/data.json -o data/FeatureCollection.py
+
